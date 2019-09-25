@@ -1,0 +1,24 @@
+.jumbotron {
+    background-color: blue !important;
+}
+.card-body{
+    color: blue;
+}
+.card{
+    box-shadow: 1px 4px 3px 2px;
+}
+.card-img-top {
+    width: 20% !important;
+    margin: 10px 0px 0px 10px;
+}
+.attValue{
+    font-weight: 700;
+}
+a {
+    text-decoration: none !important;
+   }
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: none
+}
